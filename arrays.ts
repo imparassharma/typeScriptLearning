@@ -33,3 +33,5 @@ const twoDarr : number [][]=[
 ];
 
 console.log(twoDarr[0][1])   //3
+
+export {}
